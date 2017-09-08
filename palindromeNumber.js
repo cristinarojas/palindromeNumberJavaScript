@@ -21,4 +21,4 @@ function isPalindromeNumber(number) {
 	return true;
 }
 
-isPalindromeNumber(110011); // TRUE
+isPalindromeNumber(181);
