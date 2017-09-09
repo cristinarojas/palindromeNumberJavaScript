@@ -1,5 +1,5 @@
 function reverseString(str) {
-    // Step 1. Create an empty string that will host the new created string
+    // Create an empty string that will host the new created string
     var newString = "";
     str = str.replace(/[.,?:;\/()_-\s]/g, '').toLowerCase();
 
